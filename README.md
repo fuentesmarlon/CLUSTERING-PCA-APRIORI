@@ -1,3 +1,7 @@
+#NOTA:
+
+Usar HTML en vez de pdf
+
 # Clustering, PCA & Apriori Analysis
 
 This repository uses clustering, PCA and Apriori algorithm techniques to do simple analysis on the [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) dataset published by Kaggle. The purpose of this project is to be replicated by anyone who has access to the tools listed below. 
